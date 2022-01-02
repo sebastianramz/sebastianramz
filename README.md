@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sebastian ramirez
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I’m currently building my SQL, Python, and R skills
 - 💞️ I’m looking to collaborate on Data Analysis Projects!
 - 📫 How to reach me: sebastianramz11@gmail.com
 
